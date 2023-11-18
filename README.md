@@ -1,5 +1,8 @@
 # Roger Oliveira
 
+## Sobre mim
+
+Sou educador, com muito orgulho!!!!!!!!!!! Com formação em Pedagogia e Educação Física, pos-graduação em educação especial e atualmente cursando Bacharel em Ciência de Dados.
 
 ### Hi there 👋
 
