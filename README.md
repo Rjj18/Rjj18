@@ -4,15 +4,31 @@ Olá/Hello!
 Integro conhecimentos na Gestão Educacional com minha formação em Engenharia da Computação. Busco criar soluções para a Educação com foco na Ciência e Análise de Dados.
 
 - 😄 Pronomes: Ele/Dele
-- 🌱 Atualmente estou aprendendo Pyhton e R para Análise de Dados 
 
 ## Sobre mim
 
 Sou educador, com muito orgulho!!!!!!!!!!! 
 
-Com formação em Pedagogia e Educação Física, pos-graduação em educação especial e atualmente cursando Bacharel em Ciência de Dados.
+Gestor Educacional com mais de 12 anos de experiência como Coordenador Pedagógico na Educação Básica, desenvolvendo projetos curriculares e liderando equipes docentes. Atualmente curso Engenharia da Computação, buscando especialização em Ciência e Análise de Dados para integrar metodologias analíticas à prática educacional. Meu objetivo é qualificar as práticas pedagógicas e garantir o avanço das aprendizagens com auxilio de tecnologias emergentes, transformando a tomada de decisão educacional através de dados e evidências quantitativas, enquanto desenvolvo ferramentas que possam aprimorar processos de ensino-aprendizagem.
 
-### Hi there 👋
+## 💻 Skills
+
+
+
+## 🔭 Projetos em Destaque
+
+
+## 🌱 Áreas de Interesse e Desenvolvimento
+
+- Machine Learning aplicado à educação
+- Learning Analytics e Educational Data Mining
+- Processamento de Linguagem Natural em contextos educacionais
+- Visualização de dados educacionais para tomada de decisão
+
+
+## Contato
+
+
 
 <!--
 **Rjj18/Rjj18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
