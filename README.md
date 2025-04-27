@@ -1,7 +1,9 @@
 # Roger Oliveira
 
-- 😄 Pronomes: Ele/Dele
+Olá/Hello!
+Integro conhecimentos na Gestão Educacional com minha formação em Engenharia da Computação. Busco criar soluções para a Educação com foco na Ciência e Análise de Dados.
 
+- 😄 Pronomes: Ele/Dele
 - 🌱 Atualmente estou aprendendo Pyhton e R para Análise de Dados 
 
 ## Sobre mim
