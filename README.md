@@ -22,6 +22,8 @@ Gestor Educacional com mais de 12 anos de experiência como Coordenador Pedagóg
 
 ## 💻 Skills
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+
 
 
 ## 🔭 Projetos em Destaque
