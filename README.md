@@ -24,22 +24,23 @@ Gestor Educacional com mais de 12 anos de experiência como Coordenador Pedagóg
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 
-
+e
 
 ## 🔭 Projetos em Destaque
 
 ### [App Pomodoro](https://github.com/Rjj18/App-Pomodoro)
-A project to help with time management using the Pomodoro Technique. Written in Python.
+Uma aplicação web para ajudar nos estudos e trabalho baseada no Técnica Pomodoro.
 
 ### [Heroes of Paraisópolis](https://github.com/Rjj18/Heroes-of-Paraisopolis)
-An educational game project created in Python, inspired by characters and stories developed by students from EMEF CEU Paraisópolis.
+Um game educacional desenvolvido em python. O enredo e os personagens foram desenvolvidos pelos estudantes do 3° ano D da EMEF CEU Paraisópolis no ano de 2025.
 
 
 ## 🌱 Áreas de Interesse e Desenvolvimento
 
 - Machine Learning aplicado à educação
 - Learning Analytics e Educational Data Mining
-- Processamento de Linguagem Natural em contextos educacionais
+- Web Development.
+- Programação em Pyhton.
 - Visualização de dados educacionais para tomada de decisão
 
 
