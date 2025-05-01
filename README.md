@@ -28,6 +28,12 @@ Gestor Educacional com mais de 12 anos de experiência como Coordenador Pedagóg
 
 ## 🔭 Projetos em Destaque
 
+### [App Pomodoro](https://github.com/Rjj18/App-Pomodoro)
+A project to help with time management using the Pomodoro Technique. Written in Python.
+
+### [Heroes of Paraisópolis](https://github.com/Rjj18/Heroes-of-Paraisopolis)
+An educational game project created in Python, inspired by characters and stories developed by students from EMEF CEU Paraisópolis.
+
 
 ## 🌱 Áreas de Interesse e Desenvolvimento
 
