@@ -1,7 +1,7 @@
 # Roger Oliveira
 
 Olá/Hello!
-Integro conhecimentos na Gestão Educacional com minha formação em Engenharia da Computação. Busco criar soluções para a Educação com foco na Ciência e Análise de Dados.
+Integro conhecimentos na Gestão Educacional com minha formação em Engenharia da Computação. Busco criar soluções para a Educação com foco no desenvolvimento web, programação em pyhton e análise de dados.
 
 - 😄 Pronomes: Ele/Dele
 
