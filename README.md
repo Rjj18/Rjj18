@@ -30,15 +30,6 @@ Gestor Educacional com mais de 12 anos de experiência como Coordenador Pedagóg
 
 ## 🔭 Projetos em Destaque
 
-<div style="display: flex; gap: 10px;">
-  <a href="https://github.com/Rjj18/Heroes-of-Paraisopolis" target="_blank" style="text-decoration: none;">
-    <p align="center">Heroes of Paraisópolis</p>
-  </a>
-  <a href="https://github.com/Rjj18/App-Pomodoro" target="_blank" style="text-decoration: none;">
-    <p align="center">Pomodoro App</p>
-  </a>
-</div>
-
 ### [App Pomodoro](https://github.com/Rjj18/App-Pomodoro)
 Uma aplicação web para ajudar nos estudos e trabalho baseada no Técnica Pomodoro.
 
