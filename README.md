@@ -30,6 +30,7 @@ Gestor Educacional com mais de 12 anos de experiência como Coordenador Pedagóg
 
 ## 🔭 Projetos em Destaque
 
+
 ### [App Pomodoro](https://github.com/Rjj18/App-Pomodoro)
 Uma aplicação web para ajudar nos estudos e trabalho baseada no Técnica Pomodoro.
 
