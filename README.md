@@ -23,7 +23,8 @@ Gestor Educacional com mais de 12 anos de experiência como Coordenador Pedagóg
 ## 💻 Skills
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="73077486-c128-4d0e-9174-1f2a02f78455" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+![Badge]<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="73077486-c128-4d0e-9174-1f2a02f78455" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 e
 
