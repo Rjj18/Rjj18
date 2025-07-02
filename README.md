@@ -10,7 +10,7 @@ Integro conhecimentos na Gestão Educacional com minha formação em Engenharia 
 <div align="center">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rjj18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Jeiel0rbit&theme=dark&hide_border=false"/>
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Rjj18&theme=dark&hide_border=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rjj18&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
