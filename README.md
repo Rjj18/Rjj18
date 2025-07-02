@@ -43,7 +43,7 @@ Gestor Educacional com mais de 12 anos de experiência como Coordenador Pedagóg
 ### [App Pomodoro](https://github.com/Rjj18/App-Pomodoro)
 Uma aplicação web para ajudar nos estudos e trabalho baseada no Técnica Pomodoro.
 
-### [Chess Assist]((https://github.com/Rjj18/chess_assist))
+### [Chess Assist](https://github.com/Rjj18/chess_assist)
 Aplicativo para prática de Xadrez online
 
 ## 🌱 Áreas de Interesse e Desenvolvimento
