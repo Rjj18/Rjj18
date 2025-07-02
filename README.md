@@ -43,9 +43,8 @@ Gestor Educacional com mais de 12 anos de experiência como Coordenador Pedagóg
 ### [App Pomodoro](https://github.com/Rjj18/App-Pomodoro)
 Uma aplicação web para ajudar nos estudos e trabalho baseada no Técnica Pomodoro.
 
-### [Heroes of Paraisópolis](https://github.com/Rjj18/Heroes-of-Paraisopolis)
-Um game educacional desenvolvido em python. O enredo e os personagens foram desenvolvidos pelos estudantes do 3° ano D da EMEF CEU Paraisópolis no ano de 2025.
-
+### [Chess Assist]((https://github.com/Rjj18/chess_assist))
+Aplicativo para prática de Xadrez online
 
 ## 🌱 Áreas de Interesse e Desenvolvimento
 
