@@ -14,6 +14,15 @@ Integro conhecimentos na Gestão Educacional com minha formação em Engenharia 
 
 </div>
 
+## 🏆 Troféus GitHub
+
+<div align="center">
+  
+  ![](https://github-profile-trophy.vercel.app/?username=Rjj18&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+
+</div>
+</details>
+
 ## Sobre mim
 
 Sou educador, com muito orgulho!!!!!!!!!!! 
