@@ -1,0 +1,130 @@
+<svg viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .s0{fill:#ebedf0}
+    .s1{fill:#9be9a8}
+    .s2{fill:#40c463}
+    .s3{fill:#30a14e}
+    .s4{fill:#216e39}
+    .dark .s0{fill:#161b22}
+    .dark .s1{fill:#01311f}
+    .dark .s2{fill:#034525}
+    .dark .s3{fill:#0d4429}
+    .dark .s4{fill:#00612c}
+  </style>
+  
+  <!-- Snake head -->
+  <rect x="0" y="30" width="12" height="12" rx="3" class="s4">
+    <animateTransform attributeName="transform" type="translate" 
+                      values="0,0; 200,0; 400,0; 600,0; 780,0; 780,15; 780,30; 600,30; 400,30; 200,30; 0,30; 0,15; 0,0" 
+                      dur="20s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Snake body segment 1 -->
+  <rect x="-15" y="30" width="12" height="12" rx="3" class="s3">
+    <animateTransform attributeName="transform" type="translate" 
+                      values="-15,0; 185,0; 385,0; 585,0; 765,0; 780,15; 780,15; 585,30; 385,30; 185,30; -15,30; 0,15; -15,0" 
+                      dur="20s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Snake body segment 2 -->
+  <rect x="-30" y="30" width="12" height="12" rx="3" class="s3">
+    <animateTransform attributeName="transform" type="translate" 
+                      values="-30,0; 170,0; 370,0; 570,0; 750,0; 765,15; 765,15; 570,30; 370,30; 170,30; -30,30; -15,15; -30,0" 
+                      dur="20s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Snake body segment 3 -->
+  <rect x="-45" y="30" width="12" height="12" rx="3" class="s2">
+    <animateTransform attributeName="transform" type="translate" 
+                      values="-45,0; 155,0; 355,0; 555,0; 735,0; 750,15; 750,15; 555,30; 355,30; 155,30; -45,30; -30,15; -45,0" 
+                      dur="20s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Snake body segment 4 -->
+  <rect x="-60" y="30" width="12" height="12" rx="3" class="s2">
+    <animateTransform attributeName="transform" type="translate" 
+                      values="-60,0; 140,0; 340,0; 540,0; 720,0; 735,15; 735,15; 540,30; 340,30; 140,30; -60,30; -45,15; -60,0" 
+                      dur="20s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Snake body segment 5 -->
+  <rect x="-75" y="30" width="12" height="12" rx="3" class="s1">
+    <animateTransform attributeName="transform" type="translate" 
+                      values="-75,0; 125,0; 325,0; 525,0; 705,0; 720,15; 720,15; 525,30; 325,30; 125,30; -75,30; -60,15; -75,0" 
+                      dur="20s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Snake body segment 6 -->
+  <rect x="-90" y="30" width="12" height="12" rx="3" class="s1">
+    <animateTransform attributeName="transform" type="translate" 
+                      values="-90,0; 110,0; 310,0; 510,0; 690,0; 705,15; 705,15; 510,30; 310,30; 110,30; -90,30; -75,15; -90,0" 
+                      dur="20s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Snake tail -->
+  <rect x="-105" y="30" width="12" height="12" rx="3" class="s0">
+    <animateTransform attributeName="transform" type="translate" 
+                      values="-105,0; 95,0; 295,0; 495,0; 675,0; 690,15; 690,15; 495,30; 295,30; 95,30; -105,30; -90,15; -105,0" 
+                      dur="20s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Contribution grid background -->
+  <g transform="translate(50, 10)">
+    <!-- Week columns -->
+    <g opacity="0.3">
+      <!-- Generate a grid pattern -->
+      <rect x="0" y="0" width="10" height="10" rx="2" class="s0"/>
+      <rect x="15" y="0" width="10" height="10" rx="2" class="s1"/>
+      <rect x="30" y="0" width="10" height="10" rx="2" class="s0"/>
+      <rect x="45" y="0" width="10" height="10" rx="2" class="s2"/>
+      <rect x="60" y="0" width="10" height="10" rx="2" class="s1"/>
+      <rect x="75" y="0" width="10" height="10" rx="2" class="s0"/>
+      <rect x="90" y="0" width="10" height="10" rx="2" class="s3"/>
+      
+      <rect x="0" y="15" width="10" height="10" rx="2" class="s1"/>
+      <rect x="15" y="15" width="10" height="10" rx="2" class="s0"/>
+      <rect x="30" y="15" width="10" height="10" rx="2" class="s2"/>
+      <rect x="45" y="15" width="10" height="10" rx="2" class="s0"/>
+      <rect x="60" y="15" width="10" height="10" rx="2" class="s4"/>
+      <rect x="75" y="15" width="10" height="10" rx="2" class="s1"/>
+      <rect x="90" y="15" width="10" height="10" rx="2" class="s0"/>
+      
+      <rect x="0" y="30" width="10" height="10" rx="2" class="s0"/>
+      <rect x="15" y="30" width="10" height="10" rx="2" class="s3"/>
+      <rect x="30" y="30" width="10" height="10" rx="2" class="s1"/>
+      <rect x="45" y="30" width="10" height="10" rx="2" class="s0"/>
+      <rect x="60" y="30" width="10" height="10" rx="2" class="s1"/>
+      <rect x="75" y="30" width="10" height="10" rx="2" class="s2"/>
+      <rect x="90" y="30" width="10" height="10" rx="2" class="s0"/>
+      
+      <rect x="0" y="45" width="10" height="10" rx="2" class="s2"/>
+      <rect x="15" y="45" width="10" height="10" rx="2" class="s0"/>
+      <rect x="30" y="45" width="10" height="10" rx="2" class="s0"/>
+      <rect x="45" y="45" width="10" height="10" rx="2" class="s1"/>
+      <rect x="60" y="45" width="10" height="10" rx="2" class="s0"/>
+      <rect x="75" y="45" width="10" height="10" rx="2" class="s3"/>
+      <rect x="90" y="45" width="10" height="10" rx="2" class="s1"/>
+      
+      <rect x="0" y="60" width="10" height="10" rx="2" class="s0"/>
+      <rect x="15" y="60" width="10" height="10" rx="2" class="s1"/>
+      <rect x="30" y="60" width="10" height="10" rx="2" class="s4"/>
+      <rect x="45" y="60" width="10" height="10" rx="2" class="s0"/>
+      <rect x="60" y="60" width="10" height="10" rx="2" class="s2"/>
+      <rect x="75" y="60" width="10" height="10" rx="2" class="s0"/>
+      <rect x="90" y="60" width="10" height="10" rx="2" class="s1"/>
+      
+      <rect x="0" y="75" width="10" height="10" rx="2" class="s1"/>
+      <rect x="15" y="75" width="10" height="10" rx="2" class="s0"/>
+      <rect x="30" y="75" width="10" height="10" rx="2" class="s1"/>
+      <rect x="45" y="75" width="10" height="10" rx="2" class="s2"/>
+      <rect x="60" y="75" width="10" height="10" rx="2" class="s0"/>
+      <rect x="75" y="75" width="10" height="10" rx="2" class="s0"/>
+      <rect x="90" y="75" width="10" height="10" rx="2" class="s3"/>
+    </g>
+  </g>
+  
+  <!-- Text -->
+  <text x="450" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    GitHub Contributions Snake
+  </text>
+</svg>

@@ -151,6 +151,6 @@ I'm a technology-passionate educator with a specialization in Educational Manage
   
 **"Educar é impregnar de sentido o que fazemos a cada instante!" - Paulo Freire**
 
-![Snake animation](https://github.com/Rjj18/Rjj18/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Rjj18/Rjj18/output/github-contribution-grid-snake.svg)
 
 </div>
