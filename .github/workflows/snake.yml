@@ -4,17 +4,17 @@ on:
   # Run automatically every day at midnight UTC
   schedule:
     - cron: "0 0 * * *"
-  
   push:
     branches: [ main ]
-  
   # Allow manual trigger
   workflow_dispatch:
 
 jobs:
   generate:
+    runs-on: ubuntu-latest
 
-        uses: Platane/snk@v3
+    steps:
+      - uses: Platane/snk@v3
         with:
           github_user_name: Rjj18
           outputs: |
