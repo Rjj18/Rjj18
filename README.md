@@ -92,12 +92,6 @@ ML/AI         ███████████████░░░░░░   
 
 </div>
 
-<div align="center">
-
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Rjj18&theme=tokyonight)](https://wakatime.com/@Rjj18)
-
-</div>
-
 ---
 
 ## ⏰ Estatísticas de Codificação / Coding Stats
@@ -147,7 +141,7 @@ ML/AI         ███████████████░░░░░░   
 
 <div align="center">
 
-<!-- ![Chess Assist Demo](https://github.com/Rjj18/chess_assist/raw/main/demo.gif) -->
+[Chess Assist Demo](https://github.com/Rjj18/chess_assist/raw/main/demo.gif)
 <img src="https://via.placeholder.com/600x300/0D1117/58A6FF?text=Chess+Assist+Demo" alt="Chess Assist Demo" width="600">
 
 </div>
