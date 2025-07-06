@@ -141,7 +141,6 @@ ML/AI         ███████████████░░░░░░   
 
 <div align="center">
 
-[Chess Assist Demo](https://raw.githubusercontent.com/Rjj18/chess_assist/main/demo.gif)
 <img src="https://raw.githubusercontent.com/Rjj18/chess_assist/main/demo.gif" alt="Chess Assist Demo" width="600">
 
 </div>
