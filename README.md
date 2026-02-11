@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Rjj18?label=Follow&style=social)](https://github.com/Rjj18)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-oliveira-4b3a04110/)
 
-### 🎓 Educator | 💻 Computer Engineering Student | 🚀 ML Enthusiast
+### 🎓 Education Leadre | 💻 Computer Engineering Student | 🚀 ML Enthusiast
 
 </div>
 
@@ -15,10 +15,9 @@
 ## 🧑‍💼 Sobre mim / About Me
 
 🇧🇷 **Português:**
-Sou um educador apaixonado por tecnologia com especialização em Gestão Educacional e atualmente cursando Engenharia da Computação. Minha missão é conectar educação e tecnologia, especializando-me em Machine Learning aplicado à educação e desenvolvimento web. Acredito no poder da tecnologia para transformar a experiência educacional.
-
+Sou um gestor educacional apaixonado por tecnologia atualmente cursando Engenharia da Computação. Minha missão é conectar educação e tecnologia, fornecendo consultoria para educadores e gestores que desejam utilizar as tecnologias para o avanço das aprendizagens.
 🇺🇸 **English:**
-I'm a technology-passionate educator with a specialization in Educational Management, currently studying Computer Engineering. My mission is to bridge education and technology, specializing in Machine Learning for education and web development. I believe in technology's power to transform the educational experience.
+I'm a technology-passionate leader in education , currently studying Computer Engineering. My mission is to bridge education and technology, helping educators and managers who want to use tech to improve learning.
 
 ---
 
