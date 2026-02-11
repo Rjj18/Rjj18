@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Rjj18?label=Follow&style=social)](https://github.com/Rjj18)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-oliveira-4b3a04110/)
 
-### 🎓 Education Leadre | 💻 Computer Engineering Student | 🚀 ML Enthusiast
+### 🎓 Education Leader | 💻 Computer Engineering Student | 🚀 ML Enthusiast
 
 </div>
 
