@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Rjj18?label=Follow&style=social)](https://github.com/Rjj18)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-oliveira-4b3a04110/)
 
-### 🎓 Education Leader | 💻 Computer Engineering Student | 🚀 ML Enthusiast
+### 🎓 Education Leader | 💻 Computer Engineering | 🚀 EdTech Specialist
 
 </div>
 
@@ -15,7 +15,7 @@
 ## 🧑‍💼 Sobre mim / About Me
 
 🇧🇷 **Português:**
-Sou um gestor educacional apaixonado por tecnologia atualmente cursando Engenharia da Computação. Minha missão é conectar educação e tecnologia, fornecendo consultoria para educadores e gestores que desejam utilizar as tecnologias para o avanço das aprendizagens.
+Sou um gestor educacional apaixonado por tecnologia atualmente cursando Engenharia da Computação. Minha missão é conectar educação e tecnologia, fornecendo consultoria para educadores e gestores que desejam utilizar as tecnologias para o avanço das aprendizagens.<br>
 🇺🇸 **English:**
 I'm a technology-passionate leader in education , currently studying Computer Engineering. My mission is to bridge education and technology, helping educators and managers who want to use tech to improve learning.
 
@@ -23,10 +23,19 @@ I'm a technology-passionate leader in education , currently studying Computer En
 
 ## 🔭 O que estou fazendo / What I'm up to
 
-- 🎯 **Foco atual / Current Focus:** Desenvolvendo soluções de ML para personalização do aprendizado
-- 📚 **Estudando / Learning:** Advanced Machine Learning, React, Node.js
+- 🎯 **Foco atual / Current Focus:** Desenvolvendo soluções utilizando IA e aplicações de low w no code para instituições de educação.
+- 📚 **Estudando / Learning:** Google Workspace for Education, Microsoft 365 Education, AI Tools for EdTech, Learning Management Systems (LMS)
 - 👥 **Colaboração / Open to collaborate on:** Projetos educacionais com tecnologia
 - 💡 **Interesse especial / Special Interest:** EdTech, AI in Education, Learning Analytics
+
+---
+
+## 🎓 Formação / Education
+
+- 🎓 **Bacharelado em Engenharia da Computação** | Computer Engineering Degree  
+  *Em andamento / In progress*
+- 📊 **Especialização em Gestão Educacional** | Educational Management Specialization  
+  *Completo / Completed*
 
 ---
 
