@@ -83,149 +83,39 @@ ML/AI         ███████████████░░░░░░   
 
 </div>
 
-### 📈 Métricas Adicionais / Additional Metrics
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rjj18&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
 ---
 
-## ⏰ Estatísticas de Codificação / Coding Stats
+## 🚀 Projetos / Projects
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C234%20hrs%2048%20mins-blue)
+### 🔧 Under Maintenance / Em Manutenção
 
-**🐱 Meus dados do GitHub** 
-
-> 📦 125.4 kB Usado no armazenamento do GitHub 
- > 
-> 🏆 234 Contribuições no ano 2025
- > 
-> 💼 Aberto para contratação
- > 
-> 📜 15 repositórios públicos 
- > 
-> 🔑 8 repositórios privados 
-
-**Sou uma pessoa noturna 🦉** 
-
-```text
-🌞 Manhã                 45 commits          ████░░░░░░░░░░░░░░░░░░░░░   18.07% 
-🌆 Tarde                 89 commits          █████████░░░░░░░░░░░░░░░░   35.74% 
-🌃 Noite                 95 commits          █████████░░░░░░░░░░░░░░░░   38.15% 
-🌙 Madrugada             20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.03%
-```
-
-<!--END_SECTION:waka-->
+**This section is currently being updated with new projects and information.**  
+**Esta seção está sendo atualizada com novos projetos e informações.**
 
 </div>
-
----
-
-## 🚀 Projetos Atuais / Current Projects
-
-<div align="center">
-
-### 🌟 Projeto em Destaque / Featured Project
-
-</div>
-
-### ♟️ [Chess Assist](https://github.com/Rjj18/chess_assist)
-**🎯 Assistente inteligente para xadrez / Intelligent chess assistant**
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Rjj18/chess_assist/main/demo.gif" alt="Chess Assist Demo" width="600">
-
-</div>
-
-- 🧠 **Tech Stack:** Python, AI/ML algorithms, Stockfish Engine
-- 🎮 **Features:** Análise de jogadas, sugestões estratégicas, avaliação de posições
-- 📈 **Status:** Em desenvolvimento ativo
-- 🔗 **Demo:** [Ver demonstração](https://github.com/Rjj18/chess_assist)
-
-### 🍅 [Pomodoro App](https://github.com/Rjj18/pomodoro-app)
-**⏰ Aplicativo de produtividade com técnica Pomodoro / Productivity app with Pomodoro technique**
-- 🛠️ **Tech Stack:** JavaScript, HTML5, CSS3
-- ✨ **Features:** Timer customizável, estatísticas de foco
-- 📱 **Status:** Funcional e em melhorias
-
-### 🎨 [Fun QR Code](https://github.com/Rjj18/fun-qr-code)
-**📱 Gerador de QR codes personalizados / Custom QR code generator**
-- 🔧 **Tech Stack:** Python, PIL/Pillow
-- 🌈 **Features:** QR codes coloridos e personalizados
-- 🚀 **Status:** Completo e funcional
 
 ---
 
 ## 🔮 Projetos Futuros / Future Projects
 
-### 🎓 **EduAnalytics Platform**
-- **Descrição:** Plataforma de análise de dados educacionais com ML
-- **Tech Stack:** React, Python, TensorFlow, PostgreSQL
-- **Objetivo:** Personalizar experiências de aprendizado através de dados
+<div align="center">
 
-### 📚 **Smart Study Companion**
-- **Descrição:** Assistente de estudos com IA para otimização de aprendizado
-- **Tech Stack:** Flutter, Python, OpenAI API, Firebase
-- **Objetivo:** App mobile que adapta conteúdo ao estilo de aprendizado do usuário
+### 🚧 Under Development / Em Desenvolvimento
 
-### 🌐 **CodeEdu - Programming Learning Platform**
-- **Descrição:** Plataforma gamificada para ensino de programação
-- **Tech Stack:** Next.js, Node.js, MongoDB, Socket.io
-- **Objetivo:** Tornar o aprendizado de programação mais interativo e divertido
+**New projects coming soon! Stay tuned.**  
+**Novos projetos em breve! Fique atento.**
+
+</div>
 
 ---
 
-## 🎯 Objetivos 2025 / 2025 Goals
+## 🎯 Objetivos 2026 / 2026 Goals
 
-- [ ] 🤖 Aprofundar conhecimentos em Deep Learning
-- [ ] 🌟 Contribuir para 5 projetos open-source de EdTech
-- [ ] 📱 Desenvolver aplicativo mobile educacional
-- [ ] 🎓 Publicar artigo sobre IA na Educação
-- [ ] 🚀 Lançar plataforma própria de aprendizado adaptativo
-
----
-
-## 📈 Contribuições / Contributions
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rjj18&theme=tokyo-night)
-
----
-
-## 🎓 Certificações & Aprendizado / Certifications & Learning
-
-### 📜 Certificações Concluídas / Completed Certifications
-- 🎯 **Gestão Educacional** - 
-- 🤖 **Machine Learning Fundamentals** 
-- 🌐 **Web Development** - 
-
-### 📚 Atualmente Estudando / Currently Learning
-- 🧠 **Deep Learning com TensorFlow**
-- ⚛️ **React Advanced Patterns**
-- 🔧 **DevOps & CI/CD**
-- 📊 **Data Science com Python**
-
-### 🎯 Próximos Cursos / Next Courses
-- 🚀 **AWS Cloud Practitioner**
-- 🐳 **Docker & Kubernetes**
-- 📱 **Flutter/React Native**
-
----
-
-## 📝 Blog & Artigos / Blog & Articles
-
-### ✍️ Últimos Posts / Latest Posts
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-### 🌐 Onde me encontrar escrevendo / Where to find my writing
+- [ ] 🎓 Obter as certificações Google Educator
+- [ ] 🌟 Contribuir para projetos open-source
+- [ ] 🚀 Construir soluções no-code nas plataformas Google e Microsoft
 
 ---
 
@@ -255,7 +145,7 @@ ML/AI         ███████████████░░░░░░   
 ### 📊 Estatísticas do Perfil / Profile Stats
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Rjj18&color=blueviolet&style=flat-square&label=Profile+Views)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-July%202025-brightgreen?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-February%202026-brightgreen?style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/Rjj18?style=flat-square&color=yellow)
 
 ### 🎯 "Learning never exhausts the mind" - Leonardo da Vinci
