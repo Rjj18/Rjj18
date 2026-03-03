@@ -12,18 +12,24 @@
 
 ---
 
+## ⚡ Quick Highlights
+
+- 🎓 **Formação / Background:** Educational leader + Computer Engineering student
+- 🏅 **Certificações / Certifications:** 7 credentials in Google, Microsoft, AI, Data, and Project Management
+- 🚀 **Projetos / Projects:** 2 practical EdTech solutions focused on school operations and learning workflows
+
 ## 🧑‍💼 Sobre mim / About Me
 
 🇧🇷 **Português:**
 Sou um gestor educacional apaixonado por tecnologia atualmente cursando Engenharia da Computação. Minha missão é conectar educação e tecnologia, fornecendo consultoria para educadores e gestores que desejam utilizar as tecnologias para o avanço das aprendizagens.<br>
 🇺🇸 **English:**
-I'm a technology-passionate leader in education , currently studying Computer Engineering. My mission is to bridge education and technology, helping educators and managers who want to use tech to improve learning.
+I'm a technology-passionate education leader, currently studying Computer Engineering. My mission is to bridge education and technology, helping educators and managers use tech to improve learning.
 
 ---
 
 ## 🔭 O que estou fazendo / What I'm up to
 
-- 🎯 **Foco atual / Current Focus:** Desenvolvendo soluções utilizando IA e aplicações de low w no code para instituições de educação.
+- 🎯 **Foco atual / Current Focus:** Desenvolvendo soluções utilizando IA e aplicações low-code/no-code para instituições de educação.
 - 📚 **Estudando / Learning:** Google Workspace for Education, Microsoft 365 Education, AI Tools for EdTech, Learning Management Systems (LMS)
 - 👥 **Colaboração / Open to collaborate on:** Projetos educacionais com tecnologia
 - 💡 **Interesse especial / Special Interest:** EdTech, AI in Education, Learning Analytics
@@ -43,7 +49,14 @@ I'm a technology-passionate leader in education , currently studying Computer En
 
 <div align="center">
 
-[![Gemini Certified Educator](https://img.shields.io/badge/Google-Gemini%20Certified%20Educator-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://edu.google.accredible.com/e745b85c-98dd-4c1d-b3c0-5711ac9b709f#acc.al02645x)
+[![Google Gemini Certified Educator](https://img.shields.io/badge/Google-Gemini%20Certified%20Educator-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://edu.google.accredible.com/e745b85c-98dd-4c1d-b3c0-5711ac9b709f#acc.al02645x)
+[![Google Certified Educator Level 2](https://img.shields.io/badge/Google%20Certified%20Educator-Level%202-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://edu.google.accredible.com/dbfe41ca-aa49-4662-afd4-d292a941b46f#acc.kSsHV4Eo)
+[![Google Certified Educator Level 1](https://img.shields.io/badge/Google%20Certified%20Educator-Level%201-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://edu.google.accredible.com/3beb2ed6-a521-4931-978e-094b73da71f5#acc.FLqIErhY)
+
+[![Google AI Essentials V1](https://img.shields.io/badge/Google%20AI-Essentials%20V1-orange?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/95c2fe6c-5735-4e16-9332-2a323dd4b220/public_url)
+[![Google Project Management Professional Certificate (v2)](https://img.shields.io/badge/Google%20Project%20Management-Professional%20Certificate%20(v2)-orange?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/1c000022-8d21-4db5-a3bc-841b841730fd/public_url)
+[![Google Data Analytics Professional Certificate (v2)](https://img.shields.io/badge/Google%20Data%20Analytics-Professional%20Certificate%20(v2)-orange?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/73077486-c128-4d0e-9174-1f2a02f78455/public_url)
+[![Microsoft Elevate Educator – Explorer 2025-2026](https://img.shields.io/badge/Microsoft%20Elevate-Educator%20Explorer%202025--2026-orange?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/beba1a94-755a-44d4-8f34-c4b128d0c3b8/public_url)
 
 </div>
 
@@ -57,7 +70,7 @@ I'm a technology-passionate leader in education , currently studying Computer En
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### � Nível de Proficiência / Proficiency Level
+### 📈 Nível de Proficiência / Proficiency Level
 
 ```text
 Python        ████████████████████░   95%
@@ -68,7 +81,7 @@ Node.js       ██████████░░░░░░░░░░░   
 ML/AI         ███████████████░░░░░░   75%
 ```
 
-### �🚀 Frameworks & Libraries
+### 🚀 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -111,6 +124,7 @@ ML/AI         ███████████████░░░░░░   
 | Projeto / Project | Descrição / Description | Tecnologias / Technologies |
 |---|---|---|
 | [📋 Sistema de Registros Pedagógicos](https://github.com/Rjj18/Sistema-de-Registros-Pedagogicos) | Aplicativo offline-first para centralizar registros de atividades docentes na PMSP. / Offline-first app to centralize pedagogical activity records in PMSP. | AppSheet · Google Drive · LGPD |
+| [🧾 Gerador Dinâmico de Listas Escolares](https://github.com/Rjj18/Gerador-de-Listas) | MVP em Excel para automatizar geração de listas de presença e relatórios escolares. / Excel-based MVP to automate attendance lists and school report generation. | Excel · Matrizes Dinâmicas · EOL |
 
 </div>
 
@@ -129,22 +143,7 @@ ML/AI         ███████████████░░░░░░   
 
 ---
 
-## 🏅 Certificações / Certifications
-
-<div align="center">
-
-[![Google Certified Educator Level 2](https://img.shields.io/badge/Google%20Certified%20Educator-Level%202-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://edu.google.accredible.com/dbfe41ca-aa49-4662-afd4-d292a941b46f#acc.PJYrCfZA)
-
-</div>
-
-| Certificação / Certification | Emissor / Issuer | Link |
-|---|---|---|
-| 🎓 Google Certified Educator Level 2 | Google | [Ver Certificado / View Certificate](https://edu.google.accredible.com/dbfe41ca-aa49-4662-afd4-d292a941b46f#acc.PJYrCfZA) |
-
----
-
 ## 🎯 Objetivos 2026 / 2026 Goals
-
 
 - [ ] 🌟 Contribuir para projetos open-source
 - [ ] 🚀 Construir soluções no-code nas plataformas Google e Microsoft
