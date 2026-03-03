@@ -47,18 +47,15 @@ I'm a technology-passionate education leader, currently studying Computer Engine
 
 ## 🏅 Certificações / Certifications
 
-<div align="center">
-
-[![Google Gemini Certified Educator](https://img.shields.io/badge/Google-Gemini%20Certified%20Educator-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://edu.google.accredible.com/e745b85c-98dd-4c1d-b3c0-5711ac9b709f#acc.al02645x)
-[![Google Certified Educator Level 2](https://img.shields.io/badge/Google%20Certified%20Educator-Level%202-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://edu.google.accredible.com/dbfe41ca-aa49-4662-afd4-d292a941b46f#acc.kSsHV4Eo)
-[![Google Certified Educator Level 1](https://img.shields.io/badge/Google%20Certified%20Educator-Level%201-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://edu.google.accredible.com/3beb2ed6-a521-4931-978e-094b73da71f5#acc.FLqIErhY)
-
-[![Google AI Essentials V1](https://img.shields.io/badge/Google%20AI-Essentials%20V1-orange?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/95c2fe6c-5735-4e16-9332-2a323dd4b220/public_url)
-[![Google Project Management Professional Certificate (v2)](https://img.shields.io/badge/Google%20Project%20Management-Professional%20Certificate%20(v2)-orange?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/1c000022-8d21-4db5-a3bc-841b841730fd/public_url)
-[![Google Data Analytics Professional Certificate (v2)](https://img.shields.io/badge/Google%20Data%20Analytics-Professional%20Certificate%20(v2)-orange?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/73077486-c128-4d0e-9174-1f2a02f78455/public_url)
-[![Microsoft Elevate Educator – Explorer 2025-2026](https://img.shields.io/badge/Microsoft%20Elevate-Educator%20Explorer%202025--2026-orange?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/beba1a94-755a-44d4-8f34-c4b128d0c3b8/public_url)
-
-</div>
+| Certificação / Certification | Emissor / Issuer | Plataforma / Platform | Link |
+|---|---|---|---|
+| Gemini Certified Educator | Google for Education | Accredible | [Ver credencial](https://edu.google.accredible.com/e745b85c-98dd-4c1d-b3c0-5711ac9b709f#acc.al02645x) |
+| Google Certified Educator Level 2 | Google for Education | Accredible | [Ver credencial](https://edu.google.accredible.com/dbfe41ca-aa49-4662-afd4-d292a941b46f#acc.kSsHV4Eo) |
+| Google Certified Educator Level 1 | Google for Education | Accredible | [Ver credencial](https://edu.google.accredible.com/3beb2ed6-a521-4931-978e-094b73da71f5#acc.FLqIErhY) |
+| Google AI Essentials V1 | Coursera (Google) | Credly | [Ver credencial](https://www.credly.com/badges/95c2fe6c-5735-4e16-9332-2a323dd4b220/public_url) |
+| Google Project Management Professional Certificate (v2) | Coursera (Google) | Credly | [Ver credencial](https://www.credly.com/badges/1c000022-8d21-4db5-a3bc-841b841730fd/public_url) |
+| Google Data Analytics Professional Certificate (v2) | Coursera (Google) | Credly | [Ver credencial](https://www.credly.com/badges/73077486-c128-4d0e-9174-1f2a02f78455/public_url) |
+| Microsoft Elevate Educator – Explorer 2025-2026 | Microsoft Elevate | Credly | [Ver credencial](https://www.credly.com/badges/beba1a94-755a-44d4-8f34-c4b128d0c3b8/public_url) |
 
 ---
 
