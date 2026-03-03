@@ -120,9 +120,23 @@ ML/AI         ███████████████░░░░░░   
 
 ---
 
+## 🏅 Certificações / Certifications
+
+<div align="center">
+
+[![Google Certified Educator Level 2](https://img.shields.io/badge/Google%20Certified%20Educator-Level%202-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://edu.google.accredible.com/dbfe41ca-aa49-4662-afd4-d292a941b46f#acc.PJYrCfZA)
+
+</div>
+
+| Certificação / Certification | Emissor / Issuer | Link |
+|---|---|---|
+| 🎓 Google Certified Educator Level 2 | Google | [Ver Certificado / View Certificate](https://edu.google.accredible.com/dbfe41ca-aa49-4662-afd4-d292a941b46f#acc.PJYrCfZA) |
+
+---
+
 ## 🎯 Objetivos 2026 / 2026 Goals
 
-- [ ] 🎓 Obter as certificações Google Educator
+- [x] 🎓 Obter as certificações Google Educator
 - [ ] 🌟 Contribuir para projetos open-source
 - [ ] 🚀 Construir soluções no-code nas plataformas Google e Microsoft
 
