@@ -39,6 +39,16 @@ I'm a technology-passionate leader in education , currently studying Computer En
 
 ---
 
+## 🏅 Certificações / Certifications
+
+<div align="center">
+
+[![Gemini Certified Educator](https://img.shields.io/badge/Google-Gemini%20Certified%20Educator-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://edu.google.accredible.com/e745b85c-98dd-4c1d-b3c0-5711ac9b709f#acc.al02645x)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Linguagens / Languages
@@ -135,7 +145,7 @@ ML/AI         ███████████████░░░░░░   
 
 ## 🎯 Objetivos 2026 / 2026 Goals
 
-- [x] 🎓 Obter as certificações Google Educator
+
 - [ ] 🌟 Contribuir para projetos open-source
 - [ ] 🚀 Construir soluções no-code nas plataformas Google e Microsoft
 
@@ -167,7 +177,7 @@ ML/AI         ███████████████░░░░░░   
 ### 📊 Estatísticas do Perfil / Profile Stats
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Rjj18&color=blueviolet&style=flat-square&label=Profile+Views)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-February%202026-brightgreen?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-March%202026-brightgreen?style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/Rjj18?style=flat-square&color=yellow)
 
 ### 🎯 "Learning never exhausts the mind" - Leonardo da Vinci
