@@ -98,10 +98,9 @@ ML/AI         ███████████████░░░░░░   
 
 <div align="center">
 
-### 🔧 Under Maintenance / Em Manutenção
-
-**This section is currently being updated with new projects and information.**  
-**Esta seção está sendo atualizada com novos projetos e informações.**
+| Projeto / Project | Descrição / Description | Tecnologias / Technologies |
+|---|---|---|
+| [📋 Sistema de Registros Pedagógicos](https://github.com/Rjj18/Sistema-de-Registros-Pedagogicos) | Aplicativo offline-first para centralizar registros de atividades docentes na PMSP. / Offline-first app to centralize pedagogical activity records in PMSP. | AppSheet · Google Drive · LGPD |
 
 </div>
 
