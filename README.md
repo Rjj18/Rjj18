@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Rjj18?label=Follow&style=social)](https://github.com/Rjj18)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-oliveira-4b3a04110/)
 
-### 🎓 Education Leader | 💻 Computer Engineering | 🚀 EdTech Specialist
+### 🎓 Educational Operations Leader | 💻 Computer Engineering | 🚀 AI & EdTech Solutions
 
 </div>
 
@@ -14,25 +14,25 @@
 
 ## ⚡ Quick Highlights
 
-- 🎓 **Formação / Background:** Educational leader + Computer Engineering student
-- 🏅 **Certificações / Certifications:** 7 credentials in Google, Microsoft, AI, Data, and Project Management
-- 🚀 **Projetos / Projects:** 2 practical EdTech solutions focused on school operations and learning workflows
+- 🎓 **Formação / Background:** Gestão educacional + Engenharia da Computação em andamento. / Educational management + Computer Engineering in progress.
+- 🏅 **Certificações / Certifications:** 7 credenciais em Google, Microsoft, IA, Dados e Gestão de Projetos. / 7 credentials in Google, Microsoft, AI, Data, and Project Management.
+- 🚀 **Projetos / Projects:** 3 soluções práticas de EdTech e produtividade com foco em operação escolar, automação e fluxos com IA. / 3 practical EdTech and productivity solutions focused on school operations, automation, and AI workflows.
 
 ## 🧑‍💼 Sobre mim / About Me
 
 🇧🇷 **Português:**
-Sou um gestor educacional apaixonado por tecnologia atualmente cursando Engenharia da Computação. Minha missão é conectar educação e tecnologia, fornecendo consultoria para educadores e gestores que desejam utilizar as tecnologias para o avanço das aprendizagens.<br>
+Atuo na liderança de operações educacionais com foco em eficiência, qualidade pedagógica e transformação digital. Atualmente curso Engenharia da Computação e desenvolvo soluções de IA aplicada, automação e analytics para escolas e equipes gestoras.<br>
 🇺🇸 **English:**
-I'm a technology-passionate education leader, currently studying Computer Engineering. My mission is to bridge education and technology, helping educators and managers use tech to improve learning.
+I lead educational operations with a focus on efficiency, pedagogical quality, and digital transformation. I am currently studying Computer Engineering and building applied AI, automation, and analytics solutions for schools and leadership teams.
 
 ---
 
 ## 🔭 O que estou fazendo / What I'm up to
 
-- 🎯 **Foco atual / Current Focus:** Desenvolvendo soluções utilizando IA e aplicações low-code/no-code para instituições de educação.
-- 📚 **Estudando / Learning:** Google Workspace for Education, Microsoft 365 Education, AI Tools for EdTech, Learning Management Systems (LMS)
-- 👥 **Colaboração / Open to collaborate on:** Projetos educacionais com tecnologia
-- 💡 **Interesse especial / Special Interest:** EdTech, AI in Education, Learning Analytics
+- 🎯 **Foco atual / Current Focus:** Estratégias e soluções com IA, automação e low-code/no-code para melhorar processos acadêmicos e administrativos. / AI, automation, and low-code/no-code strategies to improve academic and administrative processes.
+- 📚 **Estudando / Learning:** Google Workspace for Education, Microsoft 365 Education, AI Tools for EdTech e Learning Management Systems (LMS). / Google Workspace for Education, Microsoft 365 Education, AI Tools for EdTech, and Learning Management Systems (LMS).
+- 👥 **Colaboração / Open to collaborate on:** Projetos de transformação digital na educação, implantação de fluxos com IA e melhoria de operações escolares. / Digital transformation projects in education, AI workflow implementation, and school operations improvement.
+- 💡 **Interesse especial / Special Interest:** EdTech, AI in Education, Learning Analytics e produtividade institucional. / EdTech, AI in Education, Learning Analytics, and institutional productivity.
 
 ---
 
@@ -122,6 +122,7 @@ ML/AI         ███████████████░░░░░░   
 |---|---|---|
 | [📋 Sistema de Registros Pedagógicos](https://github.com/Rjj18/Sistema-de-Registros-Pedagogicos) | Aplicativo offline-first para centralizar registros de atividades docentes na PMSP. / Offline-first app to centralize pedagogical activity records in PMSP. | AppSheet · Google Drive · LGPD |
 | [🧾 Gerador Dinâmico de Listas Escolares](https://github.com/Rjj18/Gerador-de-Listas) | MVP em Excel para automatizar geração de listas de presença e relatórios escolares. / Excel-based MVP to automate attendance lists and school report generation. | Excel · Matrizes Dinâmicas · EOL |
+| [🤖 Assistente Pessoal Google](https://github.com/Rjj18/Assitente-Pessoal-Google) | Assistente com Google Apps Script para capturar notas via Telegram, processar com Gemini e distribuir em Drive, Tasks e Calendar. / Google Apps Script assistant that captures notes via Telegram, processes them with Gemini, and routes outputs to Drive, Tasks, and Calendar. | Google Apps Script · Telegram Bot API · Gemini · Google Workspace APIs |
 
 </div>
 
@@ -131,10 +132,13 @@ ML/AI         ███████████████░░░░░░   
 
 <div align="center">
 
-### 🚧 Under Development / Em Desenvolvimento
+### 🚧 Em Desenvolvimento / Under Development
 
-**New projects coming soon! Stay tuned.**  
-**Novos projetos em breve! Fique atento.**
+**Novos projetos em breve com foco em IA aplicada a operações educacionais.**  
+**New projects are coming soon, focused on AI applied to educational operations.**
+
+**Disponível para pilotos institucionais e colaborações técnicas.**  
+**Open to institutional pilot programs and technical collaborations.**
 
 </div>
 
@@ -142,8 +146,31 @@ ML/AI         ███████████████░░░░░░   
 
 ## 🎯 Objetivos 2026 / 2026 Goals
 
-- [ ] 🌟 Contribuir para projetos open-source
-- [ ] 🚀 Construir soluções no-code nas plataformas Google e Microsoft
+- [ ] 🌟 Contribuir para projetos open-source com foco em educação e automação
+- [ ] 🚀 Publicar novos casos práticos de IA e no-code nas plataformas Google e Microsoft
+- [ ] 🤝 Expandir parcerias com escolas e profissionais de tecnologia educacional
+
+---
+
+## 📈 Impacto / Impact
+
+<div align="center">
+
+| Área | PT-BR | EN |
+|---|---|---|
+| Operações Escolares | Estruturação de fluxos digitais para reduzir retrabalho administrativo e padronizar rotinas. | Structured digital workflows to reduce administrative rework and standardize routines. |
+| IA Aplicada | Implementação de automações com IA para transformar dados não estruturados em ações práticas. | AI automation implementation to transform unstructured data into actionable outputs. |
+| Formação de Equipes | Apoio a equipes educacionais na adoção de ferramentas Google e Microsoft com foco em produtividade. | Support for educational teams adopting Google and Microsoft tools with productivity focus. |
+
+</div>
+
+---
+
+## 🧩 Serviços / Services
+
+- 🏫 **Consultoria para Instituições de Ensino / Consulting for Educational Institutions:** Diagnóstico de processos, desenho de melhoria e plano de implementação.
+- 🤖 **Implantação de Soluções com IA / AI Solution Implementation:** Estruturação de fluxos com Google Apps Script, Gemini e integrações operacionais.
+- 👩‍🏫 **Capacitação de Times / Team Training:** Formação prática para lideranças e equipes em automação, produtividade e uso pedagógico da tecnologia.
 
 ---
 
@@ -156,7 +183,14 @@ ML/AI         ███████████████░░░░░░   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-roger.psn12@gmail.com)
 
 ### 💬 Sempre aberto para discussões sobre:
-**Educação • Tecnologia • Machine Learning • Desenvolvimento Web • Projetos Open Source**
+**Educação • Tecnologia • IA Aplicada • Operações Escolares • Projetos Open Source**
+
+### 📬 Contato Direto / Direct Contact
+**PT-BR:** Se você busca consultoria, parceria ou implantação de soluções com IA na educação, me envie uma mensagem no LinkedIn ou por e-mail.  
+**EN:** If you are looking for consulting, partnerships, or AI solution implementation in education, send me a message on LinkedIn or via email.
+
+### 🔗 Mensagem Direta no LinkedIn / Direct LinkedIn Message
+**Falar agora / Message now:** [linkedin.com/in/roger-oliveira-4b3a04110](https://www.linkedin.com/in/roger-oliveira-4b3a04110/)
 
 </div>
 
@@ -178,7 +212,7 @@ ML/AI         ███████████████░░░░░░   
 
 ### 🎯 "Learning never exhausts the mind" - Leonardo da Vinci
 
-⭐ **Se este perfil foi útil, considere dar uma estrela nos repositórios!**  
-⭐ **If this profile was helpful, consider starring the repositories!**
+⭐ **Se este perfil gerou valor para você, conecte-se comigo no LinkedIn e acompanhe meus projetos aqui no GitHub.**  
+⭐ **If this profile was valuable to you, connect with me on LinkedIn and follow my projects on GitHub.**
 
 </div>
