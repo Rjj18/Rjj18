@@ -14,25 +14,25 @@
 
 ## ⚡ Quick Highlights
 
-- 🎓 **Formação / Background:** Gestão educacional + Engenharia da Computação em andamento. / Educational management + Computer Engineering in progress.
-- 🏅 **Certificações / Certifications:** 7 credenciais em Google, Microsoft, IA, Dados e Gestão de Projetos. / 7 credentials in Google, Microsoft, AI, Data, and Project Management.
-- 🚀 **Projetos / Projects:** 3 soluções práticas de EdTech e produtividade com foco em operação escolar, automação e fluxos com IA. / 3 practical EdTech and productivity solutions focused on school operations, automation, and AI workflows.
+- 🎓 **Atuação / Role:** Liderança de operações educacionais com foco em eficiência, transformação digital e qualidade pedagógica. / Educational operations leadership focused on efficiency, digital transformation, and pedagogical quality.
+- 🤖 **Especialidade / Specialty:** Soluções práticas com IA, automação e analytics para rotinas acadêmicas e administrativas. / Practical AI, automation, and analytics solutions for academic and administrative workflows.
+- 🏅 **Base técnica / Technical Foundation:** Engenharia da Computação em andamento + certificações em Google, Microsoft, IA, Dados e Gestão de Projetos. / Computer Engineering in progress plus certifications in Google, Microsoft, AI, Data, and Project Management.
 
 ## 🧑‍💼 Sobre mim / About Me
 
 🇧🇷 **Português:**
-Atuo na liderança de operações educacionais com foco em eficiência, qualidade pedagógica e transformação digital. Atualmente curso Engenharia da Computação e desenvolvo soluções de IA aplicada, automação e analytics para escolas e equipes gestoras.<br>
+Conecto gestão educacional e tecnologia para desenhar soluções que reduzem retrabalho, organizam fluxos e ampliam a capacidade operacional de escolas e equipes gestoras. Atualmente curso Engenharia da Computação e desenvolvo projetos de IA aplicada, automação e analytics com foco em uso real.<br>
 🇺🇸 **English:**
-I lead educational operations with a focus on efficiency, pedagogical quality, and digital transformation. I am currently studying Computer Engineering and building applied AI, automation, and analytics solutions for schools and leadership teams.
+I bridge educational management and technology to design solutions that reduce rework, organize workflows, and expand the operational capacity of schools and leadership teams. I am currently studying Computer Engineering and building applied AI, automation, and analytics projects focused on real-world use.
 
 ---
 
-## 🔭 O que estou fazendo / What I'm up to
+## 🔭 Atuação Atual / Current Work
 
-- 🎯 **Foco atual / Current Focus:** Estratégias e soluções com IA, automação e low-code/no-code para melhorar processos acadêmicos e administrativos. / AI, automation, and low-code/no-code strategies to improve academic and administrative processes.
-- 📚 **Estudando / Learning:** Google Workspace for Education, Microsoft 365 Education, AI Tools for EdTech e Learning Management Systems (LMS). / Google Workspace for Education, Microsoft 365 Education, AI Tools for EdTech, and Learning Management Systems (LMS).
-- 👥 **Colaboração / Open to collaborate on:** Projetos de transformação digital na educação, implantação de fluxos com IA e melhoria de operações escolares. / Digital transformation projects in education, AI workflow implementation, and school operations improvement.
-- 💡 **Interesse especial / Special Interest:** EdTech, AI in Education, Learning Analytics e produtividade institucional. / EdTech, AI in Education, Learning Analytics, and institutional productivity.
+- 🎯 **Foco atual / Current Focus:** Estruturar soluções com IA, automação e low-code/no-code para melhorar processos acadêmicos e administrativos. / Building AI, automation, and low-code/no-code solutions to improve academic and administrative processes.
+- 📚 **Aprofundando / Deepening expertise in:** Google Workspace for Education, Microsoft 365 Education, AI tools for EdTech e Learning Management Systems (LMS). / Google Workspace for Education, Microsoft 365 Education, AI tools for EdTech, and Learning Management Systems (LMS).
+- 👥 **Aberto a colaborar em / Open to collaborate on:** Transformação digital na educação, implantação de fluxos com IA e desenho de operações escolares mais eficientes. / Digital transformation in education, AI workflow implementation, and more efficient school operations design.
+- 💡 **Interesses centrais / Core interests:** EdTech, AI in Education, Learning Analytics e produtividade institucional. / EdTech, AI in Education, Learning Analytics, and institutional productivity.
 
 ---
 
@@ -128,6 +128,31 @@ ML/AI         ███████████████░░░░░░   
 
 ---
 
+## 📌 Casos de Impacto / Impact Cases
+
+### 1. 📋 Registros pedagógicos mais organizados / More organized pedagogical records
+
+- **Desafio / Challenge:** Centralizar registros docentes de forma padronizada, acessível e aderente ao contexto escolar.
+- **Solução / Solution:** Estruturei um fluxo offline-first com AppSheet e Google Drive para consolidar informações operacionais e pedagógicas.
+- **Resultado / Result:** Mais consistência no registro das atividades, menos retrabalho administrativo e consulta mais ágil para acompanhamento interno.
+- **Stack:** AppSheet · Google Drive · LGPD
+
+### 2. 🧾 Geração de listas e relatórios com menos esforço manual / Lists and reports with less manual effort
+
+- **Desafio / Challenge:** Reduzir o tempo gasto na montagem recorrente de listas escolares e relatórios administrativos.
+- **Solução / Solution:** Desenvolvi um MVP em Excel com matrizes dinâmicas e estrutura automatizada para gerar documentos a partir dos dados disponíveis.
+- **Resultado / Result:** Processo mais rápido, menor chance de erro operacional e ganho de produtividade para a rotina escolar.
+- **Stack:** Excel · Matrizes Dinâmicas · EOL
+
+### 3. 🤖 Captura e distribuição inteligente de informações / Intelligent capture and routing of information
+
+- **Desafio / Challenge:** Transformar anotações dispersas em ações práticas dentro do ecossistema Google Workspace.
+- **Solução / Solution:** Criei um assistente com Google Apps Script, Telegram e Gemini para capturar entradas, processar conteúdo e encaminhar saídas automaticamente.
+- **Resultado / Result:** Centralização da captura de notas, melhor organização pessoal e distribuição mais fluida entre Drive, Tasks e Calendar.
+- **Stack:** Google Apps Script · Telegram Bot API · Gemini · Google Workspace APIs
+
+---
+
 ## 🔮 Projetos Futuros / Future Projects
 
 <div align="center">
@@ -149,20 +174,6 @@ ML/AI         ███████████████░░░░░░   
 - [ ] 🌟 Contribuir para projetos open-source com foco em educação e automação
 - [ ] 🚀 Publicar novos casos práticos de IA e no-code nas plataformas Google e Microsoft
 - [ ] 🤝 Expandir parcerias com escolas e profissionais de tecnologia educacional
-
----
-
-## 📈 Impacto / Impact
-
-<div align="center">
-
-| Área | PT-BR | EN |
-|---|---|---|
-| Operações Escolares | Estruturação de fluxos digitais para reduzir retrabalho administrativo e padronizar rotinas. | Structured digital workflows to reduce administrative rework and standardize routines. |
-| IA Aplicada | Implementação de automações com IA para transformar dados não estruturados em ações práticas. | AI automation implementation to transform unstructured data into actionable outputs. |
-| Formação de Equipes | Apoio a equipes educacionais na adoção de ferramentas Google e Microsoft com foco em produtividade. | Support for educational teams adopting Google and Microsoft tools with productivity focus. |
-
-</div>
 
 ---
 
@@ -204,15 +215,9 @@ ML/AI         ███████████████░░░░░░   
 
 ---
 
-### 📊 Estatísticas do Perfil / Profile Stats
+### 📬 Obrigado pela visita / Thanks for visiting
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Rjj18&color=blueviolet&style=flat-square&label=Profile+Views)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-March%202026-brightgreen?style=flat-square)
-![GitHub User's stars](https://img.shields.io/github/stars/Rjj18?style=flat-square&color=yellow)
-
-### 🎯 "Learning never exhausts the mind" - Leonardo da Vinci
-
-⭐ **Se este perfil gerou valor para você, conecte-se comigo no LinkedIn e acompanhe meus projetos aqui no GitHub.**  
-⭐ **If this profile was valuable to you, connect with me on LinkedIn and follow my projects on GitHub.**
+**PT-BR:** Se o meu trabalho faz sentido para sua instituição, equipe ou projeto, vamos conversar.  
+**EN:** If my work is relevant to your institution, team, or project, let's connect.
 
 </div>
