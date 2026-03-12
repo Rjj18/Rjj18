@@ -2,11 +2,10 @@
   
 # 👋 Olá! Eu sou Roger / Hi! I'm Roger
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Rjj18&color=blueviolet&style=flat-square)](https://github.com/Rjj18)
-[![GitHub followers](https://img.shields.io/github/followers/Rjj18?label=Follow&style=social)](https://github.com/Rjj18)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-oliveira-4b3a04110/)
+[![GitHub](https://img.shields.io/badge/-GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Rjj18)
 
-### 🎓 Educational Operations Leader | 💻 Computer Engineering | 🚀 AI & EdTech Solutions
+### 🎓 Educational Operations Leader | 🤖 AI, Automation & EdTech Builder
 
 </div>
 
@@ -14,25 +13,25 @@
 
 ## ⚡ Quick Highlights
 
-- 🎓 **Atuação / Role:** Liderança de operações educacionais com foco em eficiência, transformação digital e qualidade pedagógica. / Educational operations leadership focused on efficiency, digital transformation, and pedagogical quality.
-- 🤖 **Especialidade / Specialty:** Soluções práticas com IA, automação e analytics para rotinas acadêmicas e administrativas. / Practical AI, automation, and analytics solutions for academic and administrative workflows.
-- 🏅 **Base técnica / Technical Foundation:** Engenharia da Computação em andamento + certificações em Google, Microsoft, IA, Dados e Gestão de Projetos. / Computer Engineering in progress plus certifications in Google, Microsoft, AI, Data, and Project Management.
+- 🎯 **O que eu entrego / What I deliver:** Soluções para reduzir retrabalho, organizar fluxos e aumentar eficiência em operações educacionais. / Solutions that reduce rework, organize workflows, and improve efficiency in educational operations.
+- 🤖 **Como faço isso / How I do it:** IA aplicada, automação, low-code/no-code, analytics e desenho de processos. / Applied AI, automation, low-code/no-code, analytics, and process design.
+- 🏅 **Base profissional / Professional foundation:** Liderança em gestão educacional, Engenharia da Computação em andamento e certificações em Google, Microsoft, IA, Dados e Projetos. / Educational operations leadership, Computer Engineering in progress, and certifications in Google, Microsoft, AI, Data, and Project Management.
 
 ## 🧑‍💼 Sobre mim / About Me
 
 🇧🇷 **Português:**
-Conecto gestão educacional e tecnologia para desenhar soluções que reduzem retrabalho, organizam fluxos e ampliam a capacidade operacional de escolas e equipes gestoras. Atualmente curso Engenharia da Computação e desenvolvo projetos de IA aplicada, automação e analytics com foco em uso real.<br>
+Atuo na interseção entre gestão educacional e tecnologia. Meu foco é transformar necessidades operacionais reais em soluções simples de usar, sustentáveis no dia a dia e úteis para escolas, coordenações e equipes gestoras. Atualmente curso Engenharia da Computação e desenvolvo projetos com IA aplicada, automação e analytics voltados a impacto prático.<br>
 🇺🇸 **English:**
-I bridge educational management and technology to design solutions that reduce rework, organize workflows, and expand the operational capacity of schools and leadership teams. I am currently studying Computer Engineering and building applied AI, automation, and analytics projects focused on real-world use.
+I work at the intersection of educational management and technology. My focus is turning real operational needs into solutions that are easy to use, sustainable in daily routines, and useful for schools, coordinators, and leadership teams. I am currently studying Computer Engineering and building applied AI, automation, and analytics projects aimed at practical impact.
 
 ---
 
 ## 🔭 Atuação Atual / Current Work
 
 - 🎯 **Foco atual / Current Focus:** Estruturar soluções com IA, automação e low-code/no-code para melhorar processos acadêmicos e administrativos. / Building AI, automation, and low-code/no-code solutions to improve academic and administrative processes.
-- 📚 **Aprofundando / Deepening expertise in:** Google Workspace for Education, Microsoft 365 Education, AI tools for EdTech e Learning Management Systems (LMS). / Google Workspace for Education, Microsoft 365 Education, AI tools for EdTech, and Learning Management Systems (LMS).
-- 👥 **Aberto a colaborar em / Open to collaborate on:** Transformação digital na educação, implantação de fluxos com IA e desenho de operações escolares mais eficientes. / Digital transformation in education, AI workflow implementation, and more efficient school operations design.
-- 💡 **Interesses centrais / Core interests:** EdTech, AI in Education, Learning Analytics e produtividade institucional. / EdTech, AI in Education, Learning Analytics, and institutional productivity.
+- 📚 **Ecossistemas em que atuo / Ecosystems I work with:** Google Workspace for Education, Microsoft 365 Education, Apps Script, Excel e fluxos digitais para gestão escolar. / Google Workspace for Education, Microsoft 365 Education, Apps Script, Excel, and digital workflows for school operations.
+- 👥 **Aberto a colaborar em / Open to collaborate on:** Transformação digital na educação, implantação de fluxos com IA, organização operacional e formação de equipes. / Digital transformation in education, AI workflow implementation, operational design, and team enablement.
+- 💡 **Interesses centrais / Core interests:** EdTech, AI in Education, Learning Analytics, produtividade institucional e operações escaláveis. / EdTech, AI in Education, Learning Analytics, institutional productivity, and scalable operations.
 
 ---
 
@@ -118,11 +117,11 @@ ML/AI         ███████████████░░░░░░   
 
 <div align="center">
 
-| Projeto / Project | Descrição / Description | Tecnologias / Technologies |
+| Projeto / Project | Problema que resolve / Problem solved | Tecnologias / Technologies |
 |---|---|---|
-| [📋 Sistema de Registros Pedagógicos](https://github.com/Rjj18/Sistema-de-Registros-Pedagogicos) | Aplicativo offline-first para centralizar registros de atividades docentes na PMSP. / Offline-first app to centralize pedagogical activity records in PMSP. | AppSheet · Google Drive · LGPD |
-| [🧾 Gerador Dinâmico de Listas Escolares](https://github.com/Rjj18/Gerador-de-Listas) | MVP em Excel para automatizar geração de listas de presença e relatórios escolares. / Excel-based MVP to automate attendance lists and school report generation. | Excel · Matrizes Dinâmicas · EOL |
-| [🤖 Assistente Pessoal Google](https://github.com/Rjj18/Assitente-Pessoal-Google) | Assistente com Google Apps Script para capturar notas via Telegram, processar com Gemini e distribuir em Drive, Tasks e Calendar. / Google Apps Script assistant that captures notes via Telegram, processes them with Gemini, and routes outputs to Drive, Tasks, and Calendar. | Google Apps Script · Telegram Bot API · Gemini · Google Workspace APIs |
+| [📋 Sistema de Registros Pedagógicos](https://github.com/Rjj18/Sistema-de-Registros-Pedagogicos) | Substitui fluxos informais e dispersos por um processo estruturado, auditável e offline-first para registros docentes. / Replaces informal scattered workflows with a structured, auditable, offline-first process for pedagogical records. | AppSheet · Google Drive · LGPD |
+| [🧾 Gerador Dinâmico de Listas Escolares](https://github.com/Rjj18/Gerador-de-Listas) | Elimina a filtragem manual recorrente de dados do EOL para gerar listas e relatórios com mais rapidez e menos erro. / Eliminates recurring manual filtering of EOL data to generate lists and reports faster and with fewer errors. | Excel · Matrizes Dinâmicas · EOL |
+| [🤖 Assistente Pessoal Google](https://github.com/Rjj18/Assitente-Pessoal-Google) | Converte notas, mensagens e áudios em ações estruturadas no ecossistema Google, reduzindo atrito entre captura e execução. / Converts notes, messages, and audio into structured actions across Google Workspace, reducing friction between capture and execution. | Google Apps Script · Telegram Bot API · Gemini · Google Workspace APIs |
 
 </div>
 
@@ -132,38 +131,38 @@ ML/AI         ███████████████░░░░░░   
 
 ### 1. 📋 Registros pedagógicos mais organizados / More organized pedagogical records
 
-- **Desafio / Challenge:** Centralizar registros docentes de forma padronizada, acessível e aderente ao contexto escolar.
-- **Solução / Solution:** Estruturei um fluxo offline-first com AppSheet e Google Drive para consolidar informações operacionais e pedagógicas.
-- **Resultado / Result:** Mais consistência no registro das atividades, menos retrabalho administrativo e consulta mais ágil para acompanhamento interno.
+- **Desafio / Challenge:** Registros pedagógicos distribuídos em canais informais, com baixa padronização e pouca rastreabilidade.
+- **Solução / Solution:** Estruturei um aplicativo offline-first com AppSheet e Google Drive para centralizar entradas, organizar evidências e apoiar visualização por perfil.
+- **Resultado / Result:** Processo mais consistente, auditável e aderente à rotina escolar, com menos fricção para docentes e coordenação.
 - **Stack:** AppSheet · Google Drive · LGPD
 
 ### 2. 🧾 Geração de listas e relatórios com menos esforço manual / Lists and reports with less manual effort
 
-- **Desafio / Challenge:** Reduzir o tempo gasto na montagem recorrente de listas escolares e relatórios administrativos.
-- **Solução / Solution:** Desenvolvi um MVP em Excel com matrizes dinâmicas e estrutura automatizada para gerar documentos a partir dos dados disponíveis.
-- **Resultado / Result:** Processo mais rápido, menor chance de erro operacional e ganho de produtividade para a rotina escolar.
+- **Desafio / Challenge:** A geração recorrente de listas escolares exigia filtragem manual, retrabalho e criação de arquivos descartáveis.
+- **Solução / Solution:** Desenvolvi um MVP em Excel com arquitetura orientada a dados, interface simplificada e matrizes dinâmicas para geração instantânea de saídas.
+- **Resultado / Result:** Menos esforço operacional, menos risco de quebra de fórmula e mais agilidade para produção de listas e relatórios.
 - **Stack:** Excel · Matrizes Dinâmicas · EOL
 
 ### 3. 🤖 Captura e distribuição inteligente de informações / Intelligent capture and routing of information
 
-- **Desafio / Challenge:** Transformar anotações dispersas em ações práticas dentro do ecossistema Google Workspace.
-- **Solução / Solution:** Criei um assistente com Google Apps Script, Telegram e Gemini para capturar entradas, processar conteúdo e encaminhar saídas automaticamente.
-- **Resultado / Result:** Centralização da captura de notas, melhor organização pessoal e distribuição mais fluida entre Drive, Tasks e Calendar.
+- **Desafio / Challenge:** Informações chegavam de forma desestruturada e se perdiam entre captura, organização e execução.
+- **Solução / Solution:** Criei um assistente com Google Apps Script, Telegram e Gemini para receber texto e áudio, estruturar o conteúdo e distribuí-lo ao destino correto.
+- **Resultado / Result:** Fluxo mais confiável entre entrada e ação, com melhor organização de notas, tarefas, eventos e processamento em lote.
 - **Stack:** Google Apps Script · Telegram Bot API · Gemini · Google Workspace APIs
 
 ---
 
-## 🔮 Projetos Futuros / Future Projects
+## 🔮 Próximos Passos / What's Next
 
 <div align="center">
 
-### 🚧 Em Desenvolvimento / Under Development
+### 🚧 Em construção / In progress
 
-**Novos projetos em breve com foco em IA aplicada a operações educacionais.**  
-**New projects are coming soon, focused on AI applied to educational operations.**
+**PT-BR:** Novos projetos em breve com foco em IA aplicada a operações educacionais, automação de rotinas e organização institucional.  
+**EN:** New projects are coming soon, focused on AI for educational operations, workflow automation, and institutional organization.
 
-**Disponível para pilotos institucionais e colaborações técnicas.**  
-**Open to institutional pilot programs and technical collaborations.**
+**PT-BR:** Disponível para pilotos institucionais, parcerias técnicas e testes de solução em contexto real.  
+**EN:** Open to institutional pilots, technical partnerships, and solution testing in real-world settings.
 
 </div>
 
@@ -179,9 +178,9 @@ ML/AI         ███████████████░░░░░░   
 
 ## 🧩 Serviços / Services
 
-- 🏫 **Consultoria para Instituições de Ensino / Consulting for Educational Institutions:** Diagnóstico de processos, desenho de melhoria e plano de implementação.
-- 🤖 **Implantação de Soluções com IA / AI Solution Implementation:** Estruturação de fluxos com Google Apps Script, Gemini e integrações operacionais.
-- 👩‍🏫 **Capacitação de Times / Team Training:** Formação prática para lideranças e equipes em automação, produtividade e uso pedagógico da tecnologia.
+- 🏫 **Consultoria para Instituições de Ensino / Consulting for Educational Institutions:** Diagnóstico de processos, priorização de gargalos e desenho de melhorias viáveis para a rotina escolar.
+- 🤖 **Implantação de Soluções com IA / AI Solution Implementation:** Estruturação de fluxos com IA, Google Apps Script, automações e integrações voltadas a uso real.
+- 👩‍🏫 **Capacitação de Times / Team Training:** Formação prática para lideranças e equipes em automação, produtividade, governança de ferramentas e adoção tecnológica.
 
 ---
 
@@ -197,11 +196,8 @@ ML/AI         ███████████████░░░░░░   
 **Educação • Tecnologia • IA Aplicada • Operações Escolares • Projetos Open Source**
 
 ### 📬 Contato Direto / Direct Contact
-**PT-BR:** Se você busca consultoria, parceria ou implantação de soluções com IA na educação, me envie uma mensagem no LinkedIn ou por e-mail.  
-**EN:** If you are looking for consulting, partnerships, or AI solution implementation in education, send me a message on LinkedIn or via email.
-
-### 🔗 Mensagem Direta no LinkedIn / Direct LinkedIn Message
-**Falar agora / Message now:** [linkedin.com/in/roger-oliveira-4b3a04110](https://www.linkedin.com/in/roger-oliveira-4b3a04110/)
+**PT-BR:** Se você busca consultoria, parceria ou implantação de soluções de IA e automação na educação, me envie uma mensagem no LinkedIn ou por e-mail.  
+**EN:** If you are looking for consulting, partnerships, or AI and automation solutions for education, send me a message on LinkedIn or via email.
 
 </div>
 
