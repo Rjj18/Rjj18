@@ -115,15 +115,25 @@ ML/AI         ███████████████░░░░░░   
 
 ## 🚀 Projetos / Projects
 
-<div align="center">
+### 🏫 Educação & Operações Escolares / Education & School Operations
 
 | Projeto / Project | Problema que resolve / Problem solved | Tecnologias / Technologies |
 |---|---|---|
 | [📋 Sistema de Registros Pedagógicos](https://github.com/Rjj18/Sistema-de-Registros-Pedagogicos) | Substitui fluxos informais e dispersos por um processo estruturado, auditável e offline-first para registros docentes. / Replaces informal scattered workflows with a structured, auditable, offline-first process for pedagogical records. | AppSheet · Google Drive · LGPD |
 | [🧾 Gerador Dinâmico de Listas Escolares](https://github.com/Rjj18/Gerador-de-Listas) | Elimina a filtragem manual recorrente de dados do EOL para gerar listas e relatórios com mais rapidez e menos erro. / Eliminates recurring manual filtering of EOL data to generate lists and reports faster and with fewer errors. | Excel · Matrizes Dinâmicas · EOL |
-| [🤖 Assistente Pessoal Google](https://github.com/Rjj18/Assitente-Pessoal-Google) | Converte notas, mensagens e áudios em ações estruturadas no ecossistema Google, reduzindo atrito entre captura e execução. / Converts notes, messages, and audio into structured actions across Google Workspace, reducing friction between capture and execution. | Google Apps Script · Telegram Bot API · Gemini · Google Workspace APIs |
 
-</div>
+### 🤖 IA & Automação / AI & Automation
+
+| Projeto / Project | Problema que resolve / Problem solved | Tecnologias / Technologies |
+|---|---|---|
+| [🤖 Assistente Pessoal Google](https://github.com/Rjj18/Assitente-Pessoal-Google) | Converte notas, mensagens e áudios em ações estruturadas no ecossistema Google, reduzindo atrito entre captura e execução. / Converts notes, messages, and audio into structured actions across Google Workspace, reducing friction between capture and execution. | Google Apps Script · Telegram Bot API · Gemini · Google Workspace APIs |
+| [🧠 Brain Sync App](https://github.com/Rjj18/brain-sync-app) | Centraliza ideias e ações em uma interface simples para reduzir perda de contexto entre captura e execução. / Centralizes ideas and actions in a simple interface to reduce context loss between capture and execution. | HTML · CSS · JavaScript |
+
+### 📊 Dados & Analytics / Data & Analytics
+
+| Projeto / Project | Problema que resolve / Problem solved | Tecnologias / Technologies |
+|---|---|---|
+| [📊 Análise IDEP](https://github.com/Rjj18/analise_idep) | Organiza e visualiza dados educacionais para apoiar leitura rápida de indicadores e decisões pedagógicas. / Organizes and visualizes educational data to support faster indicator analysis and pedagogical decisions. | HTML · Data Analysis |
 
 ---
 
