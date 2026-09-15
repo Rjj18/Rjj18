@@ -57,8 +57,6 @@ I work at the intersection of educational management and technology. My focus is
 | Google Data Analytics Professional Certificate (v2) | Coursera (Google) | Credly | [Ver credencial](https://www.credly.com/badges/73077486-c128-4d0e-9174-1f2a02f78455/public_url) |
 | Microsoft Elevate Educator – Explorer 2025-2026 | Microsoft Elevate | Credly | [Ver credencial](https://www.credly.com/badges/beba1a94-755a-44d4-8f34-c4b128d0c3b8/public_url) |
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f5f3b241-751f-403d-ae0a-fe0864e8afcf" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 ---
 
 ## 🛠️ Tech Stack
