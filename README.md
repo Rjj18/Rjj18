@@ -101,16 +101,11 @@ ML/AI         ███████████████░░░░░░   
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rjj18&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rjj18&layout=compact&langs_count=8&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/Rjj18/Rjj18/output/metrics.svg" width="100%"/>
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Rjj18&theme=tokyonight)
-
-</div>
+> Gerado automaticamente a cada 12h via [GitHub Action](.github/workflows/metrics.yml) — sem depender de instâncias públicas de terceiros.
 
 ---
 
