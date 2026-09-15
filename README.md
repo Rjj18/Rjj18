@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # 👋 Olá! Eu sou Roger / Hi! I'm Roger
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-oliveira-4b3a04110/)
@@ -13,33 +13,34 @@
 
 ## ⚡ Quick Highlights
 
-- 🎯 **O que eu entrego / What I deliver:** Soluções para reduzir retrabalho, organizar fluxos e aumentar eficiência em operações educacionais. / Solutions that reduce rework, organize work[...]
+- 🎯 **O que eu entrego / What I deliver:** Soluções para reduzir retrabalho, organizar fluxos e aumentar eficiência em operações educacionais. / Solutions that reduce rework, organize workflows, and increase efficiency in educational operations.
 - 🤖 **Como faço isso / How I do it:** IA aplicada, automação, low-code/no-code, analytics e desenho de processos. / Applied AI, automation, low-code/no-code, analytics, and process design.
-- 🏅 **Base profissional / Professional foundation:** Liderança em gestão educacional, Engenharia da Computação em andamento e certificações em Google, Microsoft, IA, Dados e Projetos. / E[...]
+- 🏅 **Base profissional / Professional foundation:** Liderança em gestão educacional, Engenharia da Computação em andamento e certificações em Google, Microsoft, IA, Dados e Projetos. / Educational management leadership, an ongoing Computer Engineering degree, and certifications in Google, Microsoft, AI, Data, and Project Management.
 
 ## 🧑‍💼 Sobre mim / About Me
 
 🇧🇷 **Português:**
-Atuo na interseção entre gestão educacional e tecnologia. Meu foco é transformar necessidades operacionais reais em soluções simples de usar, sustentáveis no dia a dia e úteis para escolas[...]
+Atuo na interseção entre gestão educacional e tecnologia. Meu foco é transformar necessidades operacionais reais em soluções simples de usar, sustentáveis no dia a dia e úteis para escolas, equipes pedagógicas e times de tecnologia educacional.
+
 🇺🇸 **English:**
-I work at the intersection of educational management and technology. My focus is turning real operational needs into solutions that are easy to use, sustainable in daily routines, and useful for s[...]
+I work at the intersection of educational management and technology. My focus is turning real operational needs into solutions that are easy to use, sustainable in daily routines, and useful for schools, pedagogical teams, and edtech teams.
 
 ---
 
 ## 🔭 Atuação Atual / Current Work
 
-- 🎯 **Foco atual / Current Focus:** Estruturar soluções com IA, automação e low-code/no-code para melhorar processos acadêmicos e administrativos. / Building AI, automation, and low-code/n[...]
-- 📚 **Ecossistemas em que atuo / Ecosystems I work with:** Google Workspace for Education, Microsoft 365 Education, Apps Script, Excel e fluxos digitais para gestão escolar. / Google Workspace[...]
-- 👥 **Aberto a colaborar em / Open to collaborate on:** Transformação digital na educação, implantação de fluxos com IA, organização operacional e formação de equipes. / Digital trans[...]
-- 💡 **Interesses centrais / Core interests:** EdTech, AI in Education, Learning Analytics, produtividade institucional e operações escaláveis. / EdTech, AI in Education, Learning Analytics, [...]
+- 🎯 **Foco atual / Current Focus:** Estruturar soluções com IA, automação e low-code/no-code para melhorar processos acadêmicos e administrativos. / Building AI, automation, and low-code/no-code solutions to improve academic and administrative processes.
+- 📚 **Ecossistemas em que atuo / Ecosystems I work with:** Google Workspace for Education, Microsoft 365 Education, Apps Script, Excel e fluxos digitais para gestão escolar. / Google Workspace for Education, Microsoft 365 Education, Apps Script, Excel, and digital workflows for school management.
+- 👥 **Aberto a colaborar em / Open to collaborate on:** Transformação digital na educação, implantação de fluxos com IA, organização operacional e formação de equipes. / Digital transformation in education, AI workflow deployment, operational organization, and team training.
+- 💡 **Interesses centrais / Core interests:** EdTech, AI in Education, Learning Analytics, produtividade institucional e operações escaláveis. / EdTech, AI in Education, Learning Analytics, institutional productivity, and scalable operations.
 
 ---
 
 ## 🎓 Formação / Education
 
-- 🎓 **Bacharelado em Engenharia da Computação** | Computer Engineering Degree  
+- 🎓 **Bacharelado em Engenharia da Computação** | Computer Engineering Degree
    *Em andamento / In progress*
-- 📊 **Especialização em Gestão Educacional** | Educational Management Specialization  
+- 📊 **Especialização em Gestão Educacional** | Educational Management Specialization
    *Completo / Completed*
 
 ---
@@ -101,14 +102,14 @@ ML/AI         ███████████████░░░░░░   
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rjj18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rjj18&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
-  
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Rjj18&theme=tokyonight)
 
 </div>
@@ -121,21 +122,21 @@ ML/AI         ███████████████░░░░░░   
 
 | Projeto / Project | Problema que resolve / Problem solved | Tecnologias / Technologies |
 |---|---|---|
-| [📋 Sistema de Registros Pedagógicos](https://github.com/Rjj18/Sistema-de-Registros-Pedagogicos) | Substitui fluxos informais e dispersos por um processo estruturado, auditável e offline-fi[...]
-| [🧾 Gerador Dinâmico de Listas Escolares](https://github.com/Rjj18/Gerador-de-Listas) | Elimina a filtragem manual recorrente de dados do EOL para gerar listas e relatórios com mais rapidez[...]
+| [📋 Sistema de Registros Pedagógicos](https://github.com/Rjj18/Sistema-de-Registros-Pedagogicos) | Substitui fluxos informais e dispersos por um processo estruturado, auditável e offline-first. / Replaces informal, scattered workflows with a structured, auditable, offline-first process. | AppSheet · Google Drive |
+| [🧾 Gerador Dinâmico de Listas Escolares](https://github.com/Rjj18/Gerador-de-Listas) | Elimina a filtragem manual recorrente de dados do EOL para gerar listas e relatórios com mais rapidez e menos erros. / Eliminates repetitive manual filtering of EOL data to generate lists and reports faster and with fewer errors. | Excel · EOL |
 
 ### 🤖 IA & Automação / AI & Automation
 
 | Projeto / Project | Problema que resolve / Problem solved | Tecnologias / Technologies |
 |---|---|---|
-| [🤖 Assistente Pessoal Google](https://github.com/Rjj18/Assitente-Pessoal-Google) | Converte notas, mensagens e áudios em ações estruturadas no ecossistema Google, reduzindo atrito entre c[...]
-| [🧠 Brain Sync App](https://github.com/Rjj18/brain-sync-app) | Centraliza ideias e ações em uma interface simples para reduzir perda de contexto entre captura e execução. / Centralizes id[...]
+| [🤖 Assistente Pessoal Google](https://github.com/Rjj18/Assitente-Pessoal-Google) | Converte notas, mensagens e áudios em ações estruturadas no ecossistema Google, reduzindo atrito entre captura e execução. / Converts notes, messages, and audio into structured actions within the Google ecosystem, reducing friction between capture and execution. | Google Apps Script · Gemini |
+| [🧠 Brain Sync App](https://github.com/Rjj18/brain-sync-app) | Centraliza ideias e ações em uma interface simples para reduzir perda de contexto entre captura e execução. / Centralizes ideas and actions in a single, simple interface to reduce context loss between capture and execution. | JavaScript |
 
 ### 📊 Dados & Analytics / Data & Analytics
 
 | Projeto / Project | Problema que resolve / Problem solved | Tecnologias / Technologies |
 |---|---|---|
-| [📊 Análise IDEP](https://github.com/Rjj18/analise_idep) | Organiza e visualiza dados educacionais para apoiar leitura rápida de indicadores e decisões pedagógicas. / Organizes and visual[...]
+| [📊 Análise IDEP](https://github.com/Rjj18/analise_idep) | Organiza e visualiza dados educacionais para apoiar leitura rápida de indicadores e decisões pedagógicas. / Organizes and visualizes educational data to support quick reading of indicators and pedagogical decisions. | Python · Pandas |
 
 ---
 
@@ -170,10 +171,10 @@ ML/AI         ███████████████░░░░░░   
 
 ### 🚧 Em construção / In progress
 
-**PT-BR:** Novos projetos em breve com foco em IA aplicada a operações educacionais, automação de rotinas e organização institucional.  
+**PT-BR:** Novos projetos em breve com foco em IA aplicada a operações educacionais, automação de rotinas e organização institucional.
 **EN:** New projects are coming soon, focused on AI for educational operations, workflow automation, and institutional organization.
 
-**PT-BR:** Disponível para pilotos institucionais, parcerias técnicas e testes de solução em contexto real.  
+**PT-BR:** Disponível para pilotos institucionais, parcerias técnicas e testes de solução em contexto real.
 **EN:** Open to institutional pilots, technical partnerships, and solution testing in real-world settings.
 
 </div>
@@ -190,7 +191,7 @@ ML/AI         ███████████████░░░░░░   
 
 ## 🧩 Serviços / Services
 
-- 🏫 **Consultoria para Instituições de Ensino / Consulting for Educational Institutions:** Diagnóstico de processos, priorização de gargalos e desenho de melhorias viáveis para a rotina [...]
+- 🏫 **Consultoria para Instituições de Ensino / Consulting for Educational Institutions:** Diagnóstico de processos, priorização de gargalos e desenho de melhorias viáveis para a rotina escolar. / Process diagnosis, bottleneck prioritization, and design of feasible improvements for school routines.
 - 🤖 **Implantação de Soluções com IA / AI Solution Implementation:** Estruturação de fluxos com IA, Google Apps Script, automações e integrações voltadas a uso real.
 - 👩‍🏫 **Capacitação de Times / Team Training:** Formação prática para lideranças e equipes em automação, produtividade, governança de ferramentas e adoção tecnológica.
 
@@ -202,13 +203,13 @@ ML/AI         ███████████████░░░░░░   
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-oliveira-4b3a04110/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rjj18)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-roger.psn12@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roger.psn12@gmail.com)
 
 ### 💬 Sempre aberto para discussões sobre:
 **Educação • Tecnologia • IA Aplicada • Operações Escolares • Projetos Open Source**
 
 ### 📬 Contato Direto / Direct Contact
-**PT-BR:** Se você busca consultoria, parceria ou implantação de soluções de IA e automação na educação, me envie uma mensagem no LinkedIn ou por e-mail.  
+**PT-BR:** Se você busca consultoria, parceria ou implantação de soluções de IA e automação na educação, me envie uma mensagem no LinkedIn ou por e-mail.
 **EN:** If you are looking for consulting, partnerships, or AI and automation solutions for education, send me a message on LinkedIn or via email.
 
 </div>
@@ -216,16 +217,19 @@ ML/AI         ███████████████░░░░░░   
 ---
 
 <div align="center">
-  
+
 **"Educar é impregnar de sentido o que fazemos a cada instante!" - Paulo Freire**
 
-![Snake animation](https://raw.githubusercontent.com/Rjj18/Rjj18/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rjj18/Rjj18/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Rjj18/Rjj18/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
 ### 📬 Obrigado pela visita / Thanks for visiting
 
-**PT-BR:** Se o meu trabalho faz sentido para sua instituição, equipe ou projeto, vamos conversar.  
+**PT-BR:** Se o meu trabalho faz sentido para sua instituição, equipe ou projeto, vamos conversar.
 **EN:** If my work is relevant to your institution, team, or project, let's connect.
 
 </div>
