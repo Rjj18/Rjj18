@@ -13,34 +13,34 @@
 
 ## ⚡ Quick Highlights
 
-- 🎯 **O que eu entrego / What I deliver:** Soluções para reduzir retrabalho, organizar fluxos e aumentar eficiência em operações educacionais. / Solutions that reduce rework, organize workflows, and improve efficiency in educational operations.
+- 🎯 **O que eu entrego / What I deliver:** Soluções para reduzir retrabalho, organizar fluxos e aumentar eficiência em operações educacionais. / Solutions that reduce rework, organize work[...]
 - 🤖 **Como faço isso / How I do it:** IA aplicada, automação, low-code/no-code, analytics e desenho de processos. / Applied AI, automation, low-code/no-code, analytics, and process design.
-- 🏅 **Base profissional / Professional foundation:** Liderança em gestão educacional, Engenharia da Computação em andamento e certificações em Google, Microsoft, IA, Dados e Projetos. / Educational operations leadership, Computer Engineering in progress, and certifications in Google, Microsoft, AI, Data, and Project Management.
+- 🏅 **Base profissional / Professional foundation:** Liderança em gestão educacional, Engenharia da Computação em andamento e certificações em Google, Microsoft, IA, Dados e Projetos. / E[...]
 
 ## 🧑‍💼 Sobre mim / About Me
 
 🇧🇷 **Português:**
-Atuo na interseção entre gestão educacional e tecnologia. Meu foco é transformar necessidades operacionais reais em soluções simples de usar, sustentáveis no dia a dia e úteis para escolas, coordenações e equipes gestoras. Atualmente curso Engenharia da Computação e desenvolvo projetos com IA aplicada, automação e analytics voltados a impacto prático.<br>
+Atuo na interseção entre gestão educacional e tecnologia. Meu foco é transformar necessidades operacionais reais em soluções simples de usar, sustentáveis no dia a dia e úteis para escolas[...]
 🇺🇸 **English:**
-I work at the intersection of educational management and technology. My focus is turning real operational needs into solutions that are easy to use, sustainable in daily routines, and useful for schools, coordinators, and leadership teams. I am currently studying Computer Engineering and building applied AI, automation, and analytics projects aimed at practical impact.
+I work at the intersection of educational management and technology. My focus is turning real operational needs into solutions that are easy to use, sustainable in daily routines, and useful for s[...]
 
 ---
 
 ## 🔭 Atuação Atual / Current Work
 
-- 🎯 **Foco atual / Current Focus:** Estruturar soluções com IA, automação e low-code/no-code para melhorar processos acadêmicos e administrativos. / Building AI, automation, and low-code/no-code solutions to improve academic and administrative processes.
-- 📚 **Ecossistemas em que atuo / Ecosystems I work with:** Google Workspace for Education, Microsoft 365 Education, Apps Script, Excel e fluxos digitais para gestão escolar. / Google Workspace for Education, Microsoft 365 Education, Apps Script, Excel, and digital workflows for school operations.
-- 👥 **Aberto a colaborar em / Open to collaborate on:** Transformação digital na educação, implantação de fluxos com IA, organização operacional e formação de equipes. / Digital transformation in education, AI workflow implementation, operational design, and team enablement.
-- 💡 **Interesses centrais / Core interests:** EdTech, AI in Education, Learning Analytics, produtividade institucional e operações escaláveis. / EdTech, AI in Education, Learning Analytics, institutional productivity, and scalable operations.
+- 🎯 **Foco atual / Current Focus:** Estruturar soluções com IA, automação e low-code/no-code para melhorar processos acadêmicos e administrativos. / Building AI, automation, and low-code/n[...]
+- 📚 **Ecossistemas em que atuo / Ecosystems I work with:** Google Workspace for Education, Microsoft 365 Education, Apps Script, Excel e fluxos digitais para gestão escolar. / Google Workspace[...]
+- 👥 **Aberto a colaborar em / Open to collaborate on:** Transformação digital na educação, implantação de fluxos com IA, organização operacional e formação de equipes. / Digital trans[...]
+- 💡 **Interesses centrais / Core interests:** EdTech, AI in Education, Learning Analytics, produtividade institucional e operações escaláveis. / EdTech, AI in Education, Learning Analytics, [...]
 
 ---
 
 ## 🎓 Formação / Education
 
 - 🎓 **Bacharelado em Engenharia da Computação** | Computer Engineering Degree  
-  *Em andamento / In progress*
+   *Em andamento / In progress*
 - 📊 **Especialização em Gestão Educacional** | Educational Management Specialization  
-  *Completo / Completed*
+   *Completo / Completed*
 
 ---
 
@@ -55,6 +55,8 @@ I work at the intersection of educational management and technology. My focus is
 | Google Project Management Professional Certificate (v2) | Coursera (Google) | Credly | [Ver credencial](https://www.credly.com/badges/1c000022-8d21-4db5-a3bc-841b841730fd/public_url) |
 | Google Data Analytics Professional Certificate (v2) | Coursera (Google) | Credly | [Ver credencial](https://www.credly.com/badges/73077486-c128-4d0e-9174-1f2a02f78455/public_url) |
 | Microsoft Elevate Educator – Explorer 2025-2026 | Microsoft Elevate | Credly | [Ver credencial](https://www.credly.com/badges/beba1a94-755a-44d4-8f34-c4b128d0c3b8/public_url) |
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f5f3b241-751f-403d-ae0a-fe0864e8afcf" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ---
 
@@ -119,21 +121,21 @@ ML/AI         ███████████████░░░░░░   
 
 | Projeto / Project | Problema que resolve / Problem solved | Tecnologias / Technologies |
 |---|---|---|
-| [📋 Sistema de Registros Pedagógicos](https://github.com/Rjj18/Sistema-de-Registros-Pedagogicos) | Substitui fluxos informais e dispersos por um processo estruturado, auditável e offline-first para registros docentes. / Replaces informal scattered workflows with a structured, auditable, offline-first process for pedagogical records. | AppSheet · Google Drive · LGPD |
-| [🧾 Gerador Dinâmico de Listas Escolares](https://github.com/Rjj18/Gerador-de-Listas) | Elimina a filtragem manual recorrente de dados do EOL para gerar listas e relatórios com mais rapidez e menos erro. / Eliminates recurring manual filtering of EOL data to generate lists and reports faster and with fewer errors. | Excel · Matrizes Dinâmicas · EOL |
+| [📋 Sistema de Registros Pedagógicos](https://github.com/Rjj18/Sistema-de-Registros-Pedagogicos) | Substitui fluxos informais e dispersos por um processo estruturado, auditável e offline-fi[...]
+| [🧾 Gerador Dinâmico de Listas Escolares](https://github.com/Rjj18/Gerador-de-Listas) | Elimina a filtragem manual recorrente de dados do EOL para gerar listas e relatórios com mais rapidez[...]
 
 ### 🤖 IA & Automação / AI & Automation
 
 | Projeto / Project | Problema que resolve / Problem solved | Tecnologias / Technologies |
 |---|---|---|
-| [🤖 Assistente Pessoal Google](https://github.com/Rjj18/Assitente-Pessoal-Google) | Converte notas, mensagens e áudios em ações estruturadas no ecossistema Google, reduzindo atrito entre captura e execução. / Converts notes, messages, and audio into structured actions across Google Workspace, reducing friction between capture and execution. | Google Apps Script · Telegram Bot API · Gemini · Google Workspace APIs |
-| [🧠 Brain Sync App](https://github.com/Rjj18/brain-sync-app) | Centraliza ideias e ações em uma interface simples para reduzir perda de contexto entre captura e execução. / Centralizes ideas and actions in a simple interface to reduce context loss between capture and execution. | HTML · CSS · JavaScript |
+| [🤖 Assistente Pessoal Google](https://github.com/Rjj18/Assitente-Pessoal-Google) | Converte notas, mensagens e áudios em ações estruturadas no ecossistema Google, reduzindo atrito entre c[...]
+| [🧠 Brain Sync App](https://github.com/Rjj18/brain-sync-app) | Centraliza ideias e ações em uma interface simples para reduzir perda de contexto entre captura e execução. / Centralizes id[...]
 
 ### 📊 Dados & Analytics / Data & Analytics
 
 | Projeto / Project | Problema que resolve / Problem solved | Tecnologias / Technologies |
 |---|---|---|
-| [📊 Análise IDEP](https://github.com/Rjj18/analise_idep) | Organiza e visualiza dados educacionais para apoiar leitura rápida de indicadores e decisões pedagógicas. / Organizes and visualizes educational data to support faster indicator analysis and pedagogical decisions. | HTML · Data Analysis |
+| [📊 Análise IDEP](https://github.com/Rjj18/analise_idep) | Organiza e visualiza dados educacionais para apoiar leitura rápida de indicadores e decisões pedagógicas. / Organizes and visual[...]
 
 ---
 
@@ -188,7 +190,7 @@ ML/AI         ███████████████░░░░░░   
 
 ## 🧩 Serviços / Services
 
-- 🏫 **Consultoria para Instituições de Ensino / Consulting for Educational Institutions:** Diagnóstico de processos, priorização de gargalos e desenho de melhorias viáveis para a rotina escolar.
+- 🏫 **Consultoria para Instituições de Ensino / Consulting for Educational Institutions:** Diagnóstico de processos, priorização de gargalos e desenho de melhorias viáveis para a rotina [...]
 - 🤖 **Implantação de Soluções com IA / AI Solution Implementation:** Estruturação de fluxos com IA, Google Apps Script, automações e integrações voltadas a uso real.
 - 👩‍🏫 **Capacitação de Times / Team Training:** Formação prática para lideranças e equipes em automação, produtividade, governança de ferramentas e adoção tecnológica.
 
